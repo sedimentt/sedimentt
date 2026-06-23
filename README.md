@@ -1,6 +1,6 @@
 # Hi, I'm Denis 
 
-I'm a Computer Science student at Innopolis University and an Infrastructure / DevOps Engineer. I focus on building reliable CI/CD pipelines, containerization, and automation to help development teams deliver code faster and more efficiently.
+I'm a Computer Science student and a DevOps engineer. I focus on building reliable CI/CD pipelines, containerization, and automation to help development teams deliver code faster and more efficiently.
 
 Currently diving deep into system design, Linux internals, and infrastructure observability.
 
